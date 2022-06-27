@@ -1,0 +1,15 @@
+# arxivの学問領域の指定
+subject: "cat:physics.* OR cat:quant-ph"
+
+# 検索キーワード
+keywords:
+  quantum memory: 3
+  atomic frequency comb: 3
+  quantum internet: 2
+  quantum repeater: 2
+  quantum walk: 2
+  entanglement distribution: 2
+  photon: 1
+
+# 通知の閾値
+score_threshold: 2
